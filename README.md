@@ -16,6 +16,14 @@
 - 담당조교(TA)
   - 김주연(총괄), 황찬미, 이재윤, 김정우, 이예은
 
+## 캐글 계정 (리더보드 내 코드 공유 시 사용)
+- 최유경: Yukyung Choi (yukyungchoi)
+- 김주연: Sejong_JuYeonKim (juyeonkim)
+- 김정우: jwookimm (jwookimm)
+- 이예은: yeeunleee (yeeunleee)
+- 황찬미: chanmi (chamxmi)
+- 이재윤: Jaeyun Lee (leejaeyun20011937)
+
 
 | 주차 | 수업내용 | 강의노트 | 강의날짜 | 실습자료 | 과제 | 녹화영상 | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
